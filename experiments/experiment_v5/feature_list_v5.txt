@@ -1,0 +1,10 @@
+Popularity
+danceability
+energy
+loudness
+mode
+speechiness
+acousticness
+instrumentalness
+valence
+duration_in min/ms
